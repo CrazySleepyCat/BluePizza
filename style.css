@@ -37,6 +37,11 @@ td {
 	border: solid 1px;
 }
 
+th, td {
+	width: 50%;
+	text-align: center;
+}
+
 footer {
 	clear: both;
 }
